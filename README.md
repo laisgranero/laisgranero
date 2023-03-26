@@ -1,10 +1,11 @@
 ### 
 
-<h1 align="center">
+<h1>
   Olá, mundo! Eu sou a Laís Bertoncello :)
 </h1>
 
-  <p align="center"> 💻 Estudando Python, HTML5, CSS3 e JavaScript; </p> 
+  <p align="center"> 📚 Ciência e Tecnologia - UFABC </p> 
+  <p align="center"> 💻 Engenharia de Software - Fiap </p> 
 
 #
 
