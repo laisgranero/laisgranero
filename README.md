@@ -6,7 +6,6 @@
 
   <p align="center"> 📚 Ciência e Tecnologia - UFABC </p> 
   <p align="center"> 💻 Engenharia de Software - Fiap </p> 
-
 #
 
  <div>
