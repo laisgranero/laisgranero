@@ -1,7 +1,7 @@
 ### 
 
 <h1 align="center">
-  Olá, mundo! Eu sou a Laís Bertoncello 😄
+  Olá, mundo! Eu sou a Laís Bertoncello :)
 </h1>
 
   <p align="center"> 💻 Estudando Python, HTML5, CSS3 e JavaScript; </p> 
